@@ -133,7 +133,7 @@ main {
     main {
         grid-template-columns: 1fr 1fr;
         width: 60%;
-        height: 58%;
+        height: 66%;
         margin-top: 10rem;
     }
 
@@ -148,5 +148,6 @@ main {
 
     .share-info {
         border-bottom-left-radius: 0;
+        bottom: .5rem;
     }
 }
